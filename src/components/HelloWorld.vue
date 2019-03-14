@@ -2,7 +2,7 @@
   <div class="hello">
     <ul>
       <li>
-        xx
+        <router-link to="/home">sdfsdfadsfsdf</router-link>
       </li>
     </ul>
 
